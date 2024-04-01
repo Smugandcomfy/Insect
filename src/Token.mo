@@ -33,8 +33,8 @@ shared ({ caller = _owner }) actor class Token  (args: ?{
     let Set = ICRC1.Set;
 
     let default_icrc1_args : ICRC1.InitArgs = {
-      name = ?"ICDevs";
-      symbol = ?"ICDevs";
+      name = ?"SHADOWMANTIS";
+      symbol = ?"MANTIS";
       logo = ?"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InJlZCIvPjwvc3ZnPg==";
       decimals = 8;
       fee = ?#Fixed(10000);
