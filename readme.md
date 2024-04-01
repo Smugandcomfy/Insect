@@ -1,3 +1,7 @@
+forked from icdv, special thanks to all that helped out
+credit to bort and afat 
+
+
 # ICRC-1, ICRC-2, and ICRC-3 Fungible Token
 
 ## Overview
