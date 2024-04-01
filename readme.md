@@ -1,8 +1,10 @@
+#SHADOWMANTIS
+# ICRC-1, ICRC-2, and ICRC-3 Fungible Token
 forked from icdv, special thanks to all that helped out
 credit to bort and afat 
 
 
-# ICRC-1, ICRC-2, and ICRC-3 Fungible Token
+
 
 ## Overview
 This project is focused on the development and implementation of a fungible token standard, utilizing blockchain or distributed ledger technology. The core of the project is written in Motoko and is compatibility with the DFINITY Internet Computer platform.
